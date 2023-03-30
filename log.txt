@@ -1,0 +1,153 @@
+Completed 4.7 KiB/4.7 KiB (30.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/duraiswamy-2020/C0138.yaml to configs/duraiswamy-2020/C0138/exhibit.yaml
+Completed 6.0 KiB/6.0 KiB (38.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/duraiswamy-2020/C0156.yaml to configs/duraiswamy-2020/C0156/exhibit.yaml
+Completed 26.9 KiB/26.9 KiB (171.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/gaglia-PCQ-2020/0813/exhibit.json to configs/gaglia-PCQ-2020/0813/exhibit.json
+Completed 9.9 KiB/9.9 KiB (64.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/gross-2022/exhibit.json to configs/gross-2022/exhibit.json
+Completed 1.9 KiB/1.9 KiB (13.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/hemmin-nathenson-lin-2019/NTRK_11981/NTRK_11981.json to configs/hemmin-nathenson-lin-2019/NTRK_11981/exhibit.json
+Completed 1.9 KiB/1.9 KiB (12.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/hemmin-nathenson-lin-2019/NTRK_23629/NTRK_23629.json to configs/hemmin-nathenson-lin-2019/NTRK_23629/exhibit.json
+Completed 1.9 KiB/1.9 KiB (13.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/hemmin-nathenson-lin-2019/NTRK_44524/NTRK_44524.json to configs/hemmin-nathenson-lin-2019/NTRK_44524/exhibit.json
+Completed 1.9 KiB/1.9 KiB (13.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/hemmin-nathenson-lin-2019/NTRK_67744/NTRK_67744.json to configs/hemmin-nathenson-lin-2019/NTRK_67744/exhibit.json
+Completed 3.6 KiB/3.6 KiB (19.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/keenan-2020/Wee1/Wee1.yaml to configs/keenan-2020/Wee1/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S29-CRC01/exhibit.json to configs/lin-chen-campton-2022/P37_S29-CRC01/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S30-CRC02/exhibit.json to configs/lin-chen-campton-2022/P37_S30-CRC02/exhibit.json
+Completed 1.5 KiB/1.5 KiB (7.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S31-CRC03/exhibit.json to configs/lin-chen-campton-2022/P37_S31-CRC03/exhibit.json
+Completed 1.5 KiB/1.5 KiB (10.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S32-CRC04/exhibit.json to configs/lin-chen-campton-2022/P37_S32-CRC04/exhibit.json
+Completed 1.5 KiB/1.5 KiB (14.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S33-CRC05/exhibit.json to configs/lin-chen-campton-2022/P37_S33-CRC05/exhibit.json
+Completed 1.5 KiB/1.5 KiB (14.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S34-CRC06/exhibit.json to configs/lin-chen-campton-2022/P37_S34-CRC06/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S35-CRC07/exhibit.json to configs/lin-chen-campton-2022/P37_S35-CRC07/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S37-CRC09/exhibit.json to configs/lin-chen-campton-2022/P37_S37-CRC09/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S38-CRC10/exhibit.json to configs/lin-chen-campton-2022/P37_S38-CRC10/exhibit.json
+Completed 1.5 KiB/1.5 KiB (10.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S43-CRC11/exhibit.json to configs/lin-chen-campton-2022/P37_S43-CRC11/exhibit.json
+Completed 1.5 KiB/1.5 KiB (8.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S44-CRC12/exhibit.json to configs/lin-chen-campton-2022/P37_S44-CRC12/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S45-CRC13/exhibit.json to configs/lin-chen-campton-2022/P37_S45-CRC13/exhibit.json
+Completed 1.5 KiB/1.5 KiB (8.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S46-CRC14/exhibit.json to configs/lin-chen-campton-2022/P37_S46-CRC14/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S47-CRC15/exhibit.json to configs/lin-chen-campton-2022/P37_S47-CRC15/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S48-CRC16/exhibit.json to configs/lin-chen-campton-2022/P37_S48-CRC16/exhibit.json
+Completed 1.5 KiB/1.5 KiB (8.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S49-CRC17/exhibit.json to configs/lin-chen-campton-2022/P37_S49-CRC17/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S50-CRC18/exhibit.json to configs/lin-chen-campton-2022/P37_S50-CRC18/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S51-CRC19/exhibit.json to configs/lin-chen-campton-2022/P37_S51-CRC19/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S52-CRC20/exhibit.json to configs/lin-chen-campton-2022/P37_S52-CRC20/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S57-CRC08/exhibit.json to configs/lin-chen-campton-2022/P37_S57-CRC08/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S58-CRC21/exhibit.json to configs/lin-chen-campton-2022/P37_S58-CRC21/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S59-CRC22/exhibit.json to configs/lin-chen-campton-2022/P37_S59-CRC22/exhibit.json
+Completed 1.5 KiB/1.5 KiB (12.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S60-CRC23/exhibit.json to configs/lin-chen-campton-2022/P37_S60-CRC23/exhibit.json
+Completed 1.5 KiB/1.5 KiB (10.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S61-CRC24/exhibit.json to configs/lin-chen-campton-2022/P37_S61-CRC24/exhibit.json
+Completed 1.5 KiB/1.5 KiB (12.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S62-CRC25/exhibit.json to configs/lin-chen-campton-2022/P37_S62-CRC25/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S63-CRC26/exhibit.json to configs/lin-chen-campton-2022/P37_S63-CRC26/exhibit.json
+Completed 1.5 KiB/1.5 KiB (13.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S64-CRC27/exhibit.json to configs/lin-chen-campton-2022/P37_S64-CRC27/exhibit.json
+Completed 1.5 KiB/1.5 KiB (14.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S65-CRC28/exhibit.json to configs/lin-chen-campton-2022/P37_S65-CRC28/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S66-CRC29/exhibit.json to configs/lin-chen-campton-2022/P37_S66-CRC29/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S67-CRC30/exhibit.json to configs/lin-chen-campton-2022/P37_S67-CRC30/exhibit.json
+Completed 1.5 KiB/1.5 KiB (10.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S74-CRC31/exhibit.json to configs/lin-chen-campton-2022/P37_S74-CRC31/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S75-CRC32/exhibit.json to configs/lin-chen-campton-2022/P37_S75-CRC32/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S76_01-CRC33_01/exhibit.json to configs/lin-chen-campton-2022/P37_S76_01-CRC33_01/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S76_02-CRC33_02/exhibit.json to configs/lin-chen-campton-2022/P37_S76_02-CRC33_02/exhibit.json
+Completed 1.5 KiB/1.5 KiB (10.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S77-CRC34/exhibit.json to configs/lin-chen-campton-2022/P37_S77-CRC34/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S78-CRC35/exhibit.json to configs/lin-chen-campton-2022/P37_S78-CRC35/exhibit.json
+Completed 1.5 KiB/1.5 KiB (8.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S79-CRC36/exhibit.json to configs/lin-chen-campton-2022/P37_S79-CRC36/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S80-CRC37/exhibit.json to configs/lin-chen-campton-2022/P37_S80-CRC37/exhibit.json
+Completed 1.5 KiB/1.5 KiB (11.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S81-CRC38/exhibit.json to configs/lin-chen-campton-2022/P37_S81-CRC38/exhibit.json
+Completed 1.5 KiB/1.5 KiB (10.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S82-CRC39/exhibit.json to configs/lin-chen-campton-2022/P37_S82-CRC39/exhibit.json
+Completed 1.5 KiB/1.5 KiB (9.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-chen-campton-2022/P37_S83-CRC40/exhibit.json to configs/lin-chen-campton-2022/P37_S83-CRC40/exhibit.json
+Completed 2.0 KiB/2.0 KiB (17.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC02/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC02/exhibit.json
+Completed 2.0 KiB/2.0 KiB (17.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC03/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC03/exhibit.json
+Completed 2.0 KiB/2.0 KiB (14.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC04/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC04/exhibit.json
+Completed 2.0 KiB/2.0 KiB (16.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC05/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC05/exhibit.json
+Completed 2.0 KiB/2.0 KiB (17.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC06/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC06/exhibit.json
+Completed 2.0 KiB/2.0 KiB (13.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC07/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC07/exhibit.json
+Completed 2.0 KiB/2.0 KiB (13.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC08/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC08/exhibit.json
+Completed 2.0 KiB/2.0 KiB (17.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC09/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC09/exhibit.json
+Completed 2.0 KiB/2.0 KiB (12.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC10/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC10/exhibit.json
+Completed 2.0 KiB/2.0 KiB (13.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC11/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC11/exhibit.json
+Completed 2.0 KiB/2.0 KiB (14.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC12/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC12/exhibit.json
+Completed 2.0 KiB/2.0 KiB (14.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC13/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC13/exhibit.json
+Completed 2.0 KiB/2.0 KiB (13.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC14/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC14/exhibit.json
+Completed 2.0 KiB/2.0 KiB (12.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC15/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC15/exhibit.json
+Completed 2.0 KiB/2.0 KiB (11.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC16/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC16/exhibit.json
+Completed 2.0 KiB/2.0 KiB (11.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/lin-wang-coy-2021/all-channels/CRC17/exhibit.json to configs/lin-wang-coy-2021/all-channels/CRC17/exhibit.json
+Completed 2.8 KiB/2.8 KiB (14.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/98DTF1425.yml to configs/liu-2019/98DTF1425/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (19.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/98DTF1433.yml to configs/liu-2019/98DTF1433/exhibit.yaml
+Completed 2.9 KiB/2.9 KiB (18.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/98DTF14515.yml to configs/liu-2019/98DTF14515/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (22.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/98DTF1697.yml to configs/liu-2019/98DTF1697/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (18.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1306783A2.yml to configs/liu-2019/D1306783A2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (18.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1307880A2.yml to configs/liu-2019/D1307880A2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (17.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1307880B2.yml to configs/liu-2019/D1307880B2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (18.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1307880C2.yml to configs/liu-2019/D1307880C2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (18.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1307880D2.yml to configs/liu-2019/D1307880D2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (22.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1308200A2.yml to configs/liu-2019/D1308200A2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (21.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1308200B4.yml to configs/liu-2019/D1308200B4/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (19.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1308200C2.yml to configs/liu-2019/D1308200C2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (16.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1308200D5.yml to configs/liu-2019/D1308200D5/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (16.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1400257A2.yml to configs/liu-2019/D1400257A2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (16.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1400257B7.yml to configs/liu-2019/D1400257B7/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (18.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1400617A4.yml to configs/liu-2019/D1400617A4/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (17.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1400617B2.yml to configs/liu-2019/D1400617B2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (19.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1400617C4.yml to configs/liu-2019/D1400617C4/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (22.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1401032A7.yml to configs/liu-2019/D1401032A7/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (20.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1401032B2.yml to configs/liu-2019/D1401032B2/exhibit.yaml
+Completed 2.8 KiB/2.8 KiB (17.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/D1401032C1.yml to configs/liu-2019/D1401032C1/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (12.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/N1.yml to configs/liu-2019/N1/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (12.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/N2.yml to configs/liu-2019/N2/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (13.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/N3.yml to configs/liu-2019/N3/exhibit.yaml
+Completed 2.0 KiB/2.0 KiB (13.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P1.yml to configs/liu-2019/P1/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (12.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P2.yml to configs/liu-2019/P2/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (8.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P4.yml to configs/liu-2019/P4/exhibit.yaml
+Completed 2.1 KiB/2.1 KiB (14.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P5.yml to configs/liu-2019/P5/exhibit.yaml
+Completed 2.0 KiB/2.0 KiB (14.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P6.yml to configs/liu-2019/P6/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (11.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P7.yml to configs/liu-2019/P7/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (13.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P8.yml to configs/liu-2019/P8/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (13.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/P9.yml to configs/liu-2019/P9/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (10.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PA.yml to configs/liu-2019/PA/exhibit.yaml
+Completed 2.0 KiB/2.0 KiB (11.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PB.yml to configs/liu-2019/PB/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (12.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PC.yml to configs/liu-2019/PC/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (11.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PE.yml to configs/liu-2019/PE/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (11.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PF.yml to configs/liu-2019/PF/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (10.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PG.yml to configs/liu-2019/PG/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (12.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PH.yml to configs/liu-2019/PH/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (10.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PJ.yml to configs/liu-2019/PJ/exhibit.yaml
+Completed 2.0 KiB/2.0 KiB (12.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PK.yml to configs/liu-2019/PK/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (9.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PL.yml to configs/liu-2019/PL/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (11.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PM.yml to configs/liu-2019/PM/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (13.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PO.yml to configs/liu-2019/PO/exhibit.yaml
+Completed 1.9 KiB/1.9 KiB (14.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/liu-2019/yamls/PP.yml to configs/liu-2019/PP/exhibit.yaml
+Completed 4.7 KiB/4.7 KiB (34.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/duraiswamy-2020/C0138.yaml to configs/duraiswamy-2020/C0138/exhibit.yaml
+Completed 1.2 KiB/1.2 KiB (6.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/oms2019/B963/B963.json to configs/oms2019/B963/exhibit.json
+Completed 2.4 KiB/2.4 KiB (20.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/pca2019/PC1_40a_153/PC1_40a_153.json to configs/pca2019/PC1_40a_153/exhibit.json
+Completed 2.7 KiB/2.7 KiB (19.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/pca2019/pickseq_1_cycif/1_cycif.json to configs/pca2019/pickseq_1_cycif/exhibit.json
+Completed 2.4 KiB/2.4 KiB (15.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/pca2019/pickseq_2_cycif/2_cycif.json to configs/pca2019/pickseq_2_cycif/exhibit.json
+Completed 2.4 KiB/2.4 KiB (16.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/pca2019/pickseq_3_cycif/3_cycif.json to configs/pca2019/pickseq_3_cycif/exhibit.json
+Completed 2.0 KiB/2.0 KiB (15.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/pca2019/z136_1/config.json to configs/pca2019/z136_1/exhibit.json
+Completed 453 Bytes/453 Bytes (2.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/schapiro-mcmicro-2021/WD-75684-01/exhibit.json to configs/schapiro-mcmicro-2021/WD-75684-01/exhibit.json
+Completed 459 Bytes/459 Bytes (2.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-001/exhibit.json to configs/tnp-sardana/WD-76845-001/exhibit.json
+Completed 459 Bytes/459 Bytes (3.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-006/exhibit.json to configs/tnp-sardana/WD-76845-006/exhibit.json
+Completed 459 Bytes/459 Bytes (2.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-013/exhibit.json to configs/tnp-sardana/WD-76845-013/exhibit.json
+Completed 459 Bytes/459 Bytes (3.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-019/exhibit.json to configs/tnp-sardana/WD-76845-019/exhibit.json
+Completed 459 Bytes/459 Bytes (3.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-024/exhibit.json to configs/tnp-sardana/WD-76845-024/exhibit.json
+Completed 459 Bytes/459 Bytes (2.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-028/exhibit.json to configs/tnp-sardana/WD-76845-028/exhibit.json
+Completed 459 Bytes/459 Bytes (3.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-033/exhibit.json to configs/tnp-sardana/WD-76845-033/exhibit.json
+Completed 459 Bytes/459 Bytes (2.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-038/exhibit.json to configs/tnp-sardana/WD-76845-038/exhibit.json
+Completed 459 Bytes/459 Bytes (2.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-043/exhibit.json to configs/tnp-sardana/WD-76845-043/exhibit.json
+Completed 459 Bytes/459 Bytes (2.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-048/exhibit.json to configs/tnp-sardana/WD-76845-048/exhibit.json
+Completed 459 Bytes/459 Bytes (2.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-053/exhibit.json to configs/tnp-sardana/WD-76845-053/exhibit.json
+Completed 459 Bytes/459 Bytes (3.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-058/exhibit.json to configs/tnp-sardana/WD-76845-058/exhibit.json
+Completed 459 Bytes/459 Bytes (3.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-063/exhibit.json to configs/tnp-sardana/WD-76845-063/exhibit.json
+Completed 459 Bytes/459 Bytes (2.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-068/exhibit.json to configs/tnp-sardana/WD-76845-068/exhibit.json
+Completed 459 Bytes/459 Bytes (2.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-073/exhibit.json to configs/tnp-sardana/WD-76845-073/exhibit.json
+Completed 459 Bytes/459 Bytes (3.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-077/exhibit.json to configs/tnp-sardana/WD-76845-077/exhibit.json
+Completed 459 Bytes/459 Bytes (3.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-083/exhibit.json to configs/tnp-sardana/WD-76845-083/exhibit.json
+Completed 459 Bytes/459 Bytes (2.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-085/exhibit.json to configs/tnp-sardana/WD-76845-085/exhibit.json
+Completed 459 Bytes/459 Bytes (3.0 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-090/exhibit.json to configs/tnp-sardana/WD-76845-090/exhibit.json
+Completed 459 Bytes/459 Bytes (2.7 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-096/exhibit.json to configs/tnp-sardana/WD-76845-096/exhibit.json
+Completed 459 Bytes/459 Bytes (2.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-101/exhibit.json to configs/tnp-sardana/WD-76845-101/exhibit.json
+Completed 459 Bytes/459 Bytes (3.3 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/tnp-sardana/ffpe/crc-case-1/WD-76845-105/exhibit.json to configs/tnp-sardana/WD-76845-105/exhibit.json
+Completed 2.1 KiB/2.1 KiB (14.5 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P132115/exhibit.json to configs/wu-temko-maliga-2022/P132115/exhibit.json
+Completed 2.1 KiB/2.1 KiB (10.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P132630/exhibit.json to configs/wu-temko-maliga-2022/P132630/exhibit.json
+Completed 2.1 KiB/2.1 KiB (15.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P132666/exhibit.json to configs/wu-temko-maliga-2022/P132666/exhibit.json
+Completed 2.1 KiB/2.1 KiB (10.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P133537/exhibit.json to configs/wu-temko-maliga-2022/P133537/exhibit.json
+Completed 2.1 KiB/2.1 KiB (9.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P136690/exhibit.json to configs/wu-temko-maliga-2022/P136690/exhibit.json
+Completed 2.1 KiB/2.1 KiB (17.9 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P137591/exhibit.json to configs/wu-temko-maliga-2022/P137591/exhibit.json
+Completed 2.1 KiB/2.1 KiB (14.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P137753/exhibit.json to configs/wu-temko-maliga-2022/P137753/exhibit.json
+Completed 1.7 KiB/1.7 KiB (10.4 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P137757/exhibit.json to configs/wu-temko-maliga-2022/P137757/exhibit.json
+Completed 2.1 KiB/2.1 KiB (15.2 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P137905/exhibit.json to configs/wu-temko-maliga-2022/P137905/exhibit.json
+Completed 2.1 KiB/2.1 KiB (14.6 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P137941/exhibit.json to configs/wu-temko-maliga-2022/P137941/exhibit.json
+Completed 2.1 KiB/2.1 KiB (13.8 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P137974/exhibit.json to configs/wu-temko-maliga-2022/P137974/exhibit.json
+Completed 2.1 KiB/2.1 KiB (15.1 KiB/s) with 1 file(s) remainingdownload: s3://www.cycif.org/wu-temko-maliga-2022/P138007/exhibit.json to configs/wu-temko-maliga-2022/P138007/exhibit.json
