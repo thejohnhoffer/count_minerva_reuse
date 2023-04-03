@@ -37,7 +37,7 @@ const toMax = (copies) => {
 }
 
 const to_s3_map = (p) => {
-  const str = fs.readFileSync(p).toString();
+  const str = fs.readFileSync(p, {encoding:'utf8'}).toString();
   return str.split('\n').slice(1).reduce((m, str) => {
     const [s3, cycif] = str.split(',');
     if (cycif) m.set(s3, cycif);
@@ -46,7 +46,7 @@ const to_s3_map = (p) => {
 }
 
 const read_config = (p) => {
-  const file = fs.readFileSync(p);
+  const file = fs.readFileSync(p, {encoding:'utf8'});
   try {
     let exhibit = JSON.parse(file);
     if ("Exhibit" in exhibit) {
@@ -71,7 +71,7 @@ const read_config = (p) => {
 }
 
 const read_exhibit = (p) => {
-  const file = fs.readFileSync(p);
+  const file = fs.readFileSync(p, {encoding:'utf8'});
   try {
     let exhibit = JSON.parse(file);
     if ("Exhibit" in exhibit) {
@@ -176,7 +176,7 @@ const log_stories = (chans, mins, s3_map, tree) => {
     console.log(`Total with Some Channel Copied ≥ ${min}x: `, n_copied);
     console.log(`with Some Channel Copied ≥ ${min}x / Total: `, round(n_copied/n_counted));
   }
-  const minerva_story = fs.readFileSync('minerva_story.html');
+  const minerva_story = fs.readFileSync('minerva_story.html', {encoding:'utf8'});
   const files_with_copies = counted.filter((story) => {
     return story.mins.has(1);
   }).map(({file}) => file);
@@ -192,7 +192,7 @@ const log_stories = (chans, mins, s3_map, tree) => {
   const md = urls_with_copies.map(([f, url, local]) => {
     const href = local ? url.replace('configs/', '') : url;
     if (local) {
-      let data = JSON.parse(fs.readFileSync(f));
+      let data = JSON.parse(fs.readFileSync(f, {encoding:'utf8'}));
       if ('Exhibit' in data) data = data.Exhibit;
       const p = url.replace('configs', 'https://s3.amazonaws.com/www.cycif.org');
       data.Images = data.Images.map(image => {
@@ -201,10 +201,10 @@ const log_stories = (chans, mins, s3_map, tree) => {
       const out_data = JSON.stringify(data);
       const dir = path.dirname(f.replace('configs', 'docs'));
       const minerva_out = path.join(dir, 'index.html');
-      fs.writeFileSync(minerva_out, minerva_story);
       fs.mkdirSync(dir, { recursive: true });
+      fs.writeFileSync(minerva_out, minerva_story, {encoding:'utf8'});
       const out_f = path.join(dir, 'exhibit.json');
-      fs.writeFileSync(out_f, out_data);
+      fs.writeFileSync(out_f, out_data, {encoding:'utf8'});
     }
     const name = url.replace(/.*cycif.org.data./, '').replace(/^configs./, '')
     const channels = [...(tree.get(f) || new Map).entries()].map(([k, v]) => {
@@ -217,7 +217,7 @@ ${channels}
     `;
   }).join('\n');
   md_to_html(md).then(html => {
-    fs.writeFileSync('docs/index.html', String(html));
+    fs.writeFileSync('docs/index.html', String(html), {encoding:'utf8'});
   });
 /*  fs.writeFileSync('urls_with_copies.csv', urls_with_copies.map(([f, url]) => {
     return [f, url].join(',');
