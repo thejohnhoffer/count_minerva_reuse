@@ -37,7 +37,7 @@ const toMax = (copies) => {
 }
 
 const to_s3_map = (p) => {
-  const str = fs.readFileSync(p, {encoding:'utf8'}).toString();
+  const str = fs.readFileSync(p, {encoding:'utf8'}).toString('utf8');
   return str.split('\n').slice(1).reduce((m, str) => {
     const [s3, cycif] = str.split(',');
     if (cycif) m.set(s3, cycif);
@@ -217,7 +217,7 @@ ${channels}
     `;
   }).join('\n');
   md_to_html(md).then(html => {
-    fs.writeFileSync('docs/index.html', String(html), {encoding:'utf8'});
+    fs.writeFileSync('docs/index.html', html.toString('utf8'), {encoding:'utf8'});
   });
 /*  fs.writeFileSync('urls_with_copies.csv', urls_with_copies.map(([f, url]) => {
     return [f, url].join(',');
